@@ -1,0 +1,10 @@
+
+    Project: House Price Prediction using Linear Regression
+    -------------------------------------------------------
+    - Technologies Used: Python, Pandas, Scikit-learn, Matplotlib
+    - Model Used: Linear Regression
+    - Mean Squared Error: 151392236.54
+    - R-squared Score: 1.00
+    - Model Coefficients: [  150.47658068 10157.99976207]
+    - Model Intercept: -560.7688884013332
+    
